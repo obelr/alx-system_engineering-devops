@@ -14,7 +14,7 @@ The specific list of projects contained follows:
 * [0x08. Networking basics #1](0x08-networking_basics_2)
 
 
-## Author :black_nib:
+## Author :black_nib:Robel Debebe
 
 ## Acknowledgements :pray:
 
